@@ -1,1 +1,3 @@
-"# Sentiment_Analysis" 
+"Sentiment_Analysis" 
+
+This project focuses on sentiment analysis of movie reviews from the IMDB dataset, classifying them as positive or negative using four different algorithms: Naïve Bayes (both from scratch and with MultinomialNB), Support Vector Classifier (SVC), Logistic Regression, and BERT. The workflow includes preprocessing steps like tokenization, N-grams, stopwords removal, lemmatization, stemming, and TF-IDF calculation. After evaluating the models on accuracy, precision, recall, and F1-score, BERT emerged as the top performer, demonstrating its effectiveness in sentiment analysis. The project report details the methodology, algorithm comparisons, and potential areas for future improvement
